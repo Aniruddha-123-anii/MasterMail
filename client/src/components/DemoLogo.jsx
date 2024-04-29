@@ -1,12 +1,12 @@
 
 import React from 'react';
 
-import Logo from '../constants/logo.jpg'
+import Logo from '../constants/logo6.png'
 
 function DemoLogo() {
   return (
-   
-      <img src={Logo} alt="KarMail" style={{ paddingLeft:30,width:'auto',height:55 }} />
+
+    <img src={Logo} alt="KarMail" style={{ marginLeft: '11px', width: '108px',  borderRadius: '17%'}} />
     
   );
 }

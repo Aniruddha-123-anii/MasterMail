@@ -67,7 +67,7 @@ const Compoose = ({ openDialog, setOpenDialog }) => {
             body: data.body,
             date: new Date(),
             image: '',
-            name: 'KarMail',
+            name: 'MasterMail',
             starrted: false,
             type: "drafts"
 
@@ -109,7 +109,7 @@ const Compoose = ({ openDialog, setOpenDialog }) => {
             body: data.body,
             date: new Date(),
             image: '',
-            name: 'KarMail',
+            name: 'MasterMail',
             starrted: false,
             type: "send"
 
